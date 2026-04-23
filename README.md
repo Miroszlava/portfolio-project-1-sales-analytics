@@ -25,7 +25,7 @@ portfolio-project-1-sales-analytics/
 │
 └── README.md
 
-## Tableau Dashboard
+## Project structure
 
 Tableau Public:
 [Portfolio 1 - Sales Analytics](https://public.tableau.com/app/profile/miroszlava.balog/viz/GotoCustomerChannelInsights_/Dashboard1)
