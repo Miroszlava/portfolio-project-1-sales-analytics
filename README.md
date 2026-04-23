@@ -17,10 +17,6 @@ The work includes:
 ## Project structure
 ```text
 portfolio-project-1-sales-analytics/
-│
-├── data/
-│   └── sales_dataset.csv
-│
 ├── notebooks/
 │   └── Portfolio_1_Sales_Analytics.ipynb
 │
