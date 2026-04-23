@@ -28,8 +28,3 @@ portfolio-project-1-sales-analytics/
 
 Tableau Public:  
 [Portfolio 1 - Sales Analytics](https://public.tableau.com/app/profile/miroszlava.balog/viz/GotoCustomerChannelInsights_/Dashboard1)
-
-## Tableau Dashboard
-
-Tableau Public:  
-[Portfolio 1 - Sales Analytics](https://public.tableau.com/app/profile/miroszlava.balog/viz/GotoCustomerChannelInsights_/Dashboard1)
