@@ -15,6 +15,7 @@ The work includes:
 - Tableau Public
 
 ## Project structure
+
 ```text
 portfolio-project-1-sales-analytics/
 ├── notebooks/
@@ -24,8 +25,9 @@ portfolio-project-1-sales-analytics/
 │   └── sales_dataset_query.sql
 │
 └── README.md
+```text
 
-## Project structure
+## Tableau Dashboard
 
-Tableau Public:
+Tableau Public:  
 [Portfolio 1 - Sales Analytics](https://public.tableau.com/app/profile/miroszlava.balog/viz/GotoCustomerChannelInsights_/Dashboard1)
