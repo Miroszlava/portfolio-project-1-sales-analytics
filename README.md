@@ -14,7 +14,6 @@ The work includes:
 - Jupyter Notebook / Google Colab
 - Tableau Public
 
-```md
 ## Project structure
 
 portfolio-project-1-sales-analytics/  
