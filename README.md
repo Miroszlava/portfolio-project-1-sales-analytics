@@ -24,3 +24,8 @@ portfolio-project-1-sales-analytics/
 │   └── sales_dataset_query.sql
 │
 └── README.md
+
+## Tableau Dashboard
+
+Tableau Public:
+[Portfolio 1 - Sales Analytics]((https://public.tableau.com/app/profile/miroszlava.balog/viz/GotoCustomerChannelInsights_/Dashboard1)
